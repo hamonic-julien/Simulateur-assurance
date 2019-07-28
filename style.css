@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 50vw;
+    margin: auto;
+}
+
+h1 {
+    color: #006a53;
+    font-size: 1.6em;
+    font-weight: 900;
+}
+
+h2 {
+    color: #006a53;
+    font-size: 1.4em;
+    font-weight: 900;
+}
+
+.float {
+    float : right;
+    
+}
+
+form {
+    width: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+label, input {
+    display: inline-block;
+    width: 100%;
+    font-size: 1em;
+    font-weight: 700;
+    
+}
+
+input {
+    margin-bottom: 1em;
+}
+
+#submit {
+    background-color: #006a53;
+    border: 0;
+    width: 15vh;
+    color: white;
+    padding: 8px;
+    font-size: 1em;
+}
+
+p {
+    font-size: 2em;
+}
+
+.orange {
+    color: orange;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.grey {
+    color: grey;
+}
+
+strong {
+    font-weight: 900;
+    text-decoration: underline;
+    
+}
